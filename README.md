@@ -82,3 +82,4 @@ SELECT * FROM tb_order
 INNER JOIN tb_order_product ON tb_order.id = tb_order_product.order_id
 INNER JOIN tb_product ON tb_product.id = tb_order_product.product_id
 ```
+# revisao_semana_devSuperior
